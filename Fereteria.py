@@ -1,3 +1,10 @@
+"""
+MINI PROYECTO DE INVENTARIO MULTI-PILA PARA FERRETERÍA FEEL
+INTEGRANTES:
+- JORDAN ANTONIO GONZALEZ TORRES
+- JOSE ANGEL BORJA
+"""
+
 def mostrar_menu_principal() -> None:
     print("\n" + "=" * 45)
     print("      INVENTARIO MULTI-PILA - FERRETERÍA FEEL")
